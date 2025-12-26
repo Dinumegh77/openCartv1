@@ -1,0 +1,206 @@
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 13:02:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DINESH\AppData\Local\Temp\testng-eclipse--1615545508\testng-customsuite.xml
+
+2025-12-23 13:02:42 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2025-12-23 13:02:48 INFO  TC001_AccountRegistration:20 - ***  Starting TC001_AccountRegistration **** 
+2025-12-23 13:02:48 INFO  TC001_AccountRegistration:25 - clicked on Accountlink
+2025-12-23 13:02:48 INFO  TC001_AccountRegistration:27 - clicked on Registerationlink
+2025-12-23 13:02:48 INFO  TC001_AccountRegistration:32 - Giving the customer information....
+2025-12-23 13:02:50 INFO  TC001_AccountRegistration:44 - validating successful message
+2025-12-23 13:02:50 INFO  TC001_AccountRegistration:54 - ***  finished TC001_AccountRegistration ****
+2025-12-23 13:02:51 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@719843e5: 41 ms
+2025-12-23 13:02:51 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@58a120b0: 86 ms
+2025-12-23 13:02:51 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@27d57a2c: 2 ms
+2025-12-23 13:02:51 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@528f8f8b: 13 ms
+2025-12-23 13:02:51 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@46866946: 9 ms
+2025-12-23 13:02:51 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@25b5c5e3: 6 ms
+2025-12-23 13:02:51 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5177e388: 0 ms
+2025-12-23 18:57:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DINESH\eclipse-workspace\openCartv1\testng.xml
+
+2025-12-23 18:57:29 INFO  TC001_AccountRegistration:20 - ***  Starting TC001_AccountRegistration **** 
+2025-12-23 18:57:29 INFO  TC001_AccountRegistration:25 - clicked on Accountlink
+2025-12-23 18:57:29 INFO  TC001_AccountRegistration:27 - clicked on Registerationlink
+2025-12-23 18:57:29 INFO  TC001_AccountRegistration:32 - Giving the customer information....
+2025-12-23 18:57:30 INFO  TC001_AccountRegistration:44 - validating successful message
+2025-12-23 18:57:31 INFO  TC001_AccountRegistration:54 - ***  finished TC001_AccountRegistration ****
+2025-12-23 18:57:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DINESH\eclipse-workspace\openCartv1\testng.xml
+
+2025-12-23 18:58:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DINESH\eclipse-workspace\openCartv1\testng.xml
+
+2025-12-23 18:58:34 INFO  TC001_AccountRegistration:20 - ***  Starting TC001_AccountRegistration **** 
+2025-12-23 18:58:34 INFO  TC001_AccountRegistration:25 - clicked on Accountlink
+2025-12-23 18:58:35 INFO  TC001_AccountRegistration:27 - clicked on Registerationlink
+2025-12-23 18:58:35 INFO  TC001_AccountRegistration:32 - Giving the customer information....
+2025-12-23 18:58:36 INFO  TC001_AccountRegistration:44 - validating successful message
+2025-12-23 18:58:36 INFO  TC001_AccountRegistration:54 - ***  finished TC001_AccountRegistration ****
+2025-12-23 19:01:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DINESH\eclipse-workspace\openCartv1\crossBrowser.xml
+
+2025-12-23 19:01:25 INFO  TC001_AccountRegistration:20 - ***  Starting TC001_AccountRegistration **** 
+2025-12-23 19:01:25 INFO  TC001_AccountRegistration:25 - clicked on Accountlink
+2025-12-23 19:01:25 INFO  TC001_AccountRegistration:27 - clicked on Registerationlink
+2025-12-23 19:01:25 INFO  TC001_AccountRegistration:32 - Giving the customer information....
+2025-12-23 19:01:27 INFO  TC001_AccountRegistration:44 - validating successful message
+2025-12-23 19:01:27 INFO  TC001_AccountRegistration:54 - ***  finished TC001_AccountRegistration ****
+2025-12-23 19:01:31 INFO  TC001_AccountRegistration:20 - ***  Starting TC001_AccountRegistration **** 
+2025-12-23 19:01:31 INFO  TC001_AccountRegistration:25 - clicked on Accountlink
+2025-12-23 19:01:32 INFO  TC001_AccountRegistration:27 - clicked on Registerationlink
+2025-12-23 19:01:32 INFO  TC001_AccountRegistration:32 - Giving the customer information....
+2025-12-23 19:01:33 INFO  TC001_AccountRegistration:44 - validating successful message
+2025-12-23 19:01:33 INFO  TC001_AccountRegistration:54 - ***  finished TC001_AccountRegistration ****
+2025-12-23 19:01:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DINESH\eclipse-workspace\openCartv1\testng.xml
+
+2025-12-23 19:03:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DINESH\eclipse-workspace\openCartv1\crossBrowser.xml
+
+2025-12-23 19:03:19 INFO  TC001_AccountRegistration:20 - ***  Starting TC001_AccountRegistration **** 
+2025-12-23 19:03:19 INFO  TC001_AccountRegistration:25 - clicked on Accountlink
+2025-12-23 19:03:20 INFO  TC001_AccountRegistration:27 - clicked on Registerationlink
+2025-12-23 19:03:20 INFO  TC001_AccountRegistration:32 - Giving the customer information....
+2025-12-23 19:03:21 INFO  TC001_AccountRegistration:44 - validating successful message
+2025-12-23 19:03:21 INFO  TC001_AccountRegistration:54 - ***  finished TC001_AccountRegistration ****
+2025-12-23 19:03:23 INFO  TC001_AccountRegistration:20 - ***  Starting TC001_AccountRegistration **** 
+2025-12-23 19:03:23 INFO  TC001_AccountRegistration:25 - clicked on Accountlink
+2025-12-23 19:03:23 INFO  TC001_AccountRegistration:27 - clicked on Registerationlink
+2025-12-23 19:03:23 INFO  TC001_AccountRegistration:32 - Giving the customer information....
+2025-12-23 19:03:24 INFO  TC001_AccountRegistration:44 - validating successful message
+2025-12-23 19:03:24 INFO  TC001_AccountRegistration:54 - ***  finished TC001_AccountRegistration ****
+2025-12-23 19:16:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DINESH\eclipse-workspace\openCartv1\testng.xml
+
+2025-12-23 19:20:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DINESH\eclipse-workspace\openCartv1\testng.xml
+
+2025-12-23 19:30:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DINESH\eclipse-workspace\openCartv1\testng.xml
+
+2025-12-23 19:30:18 INFO  TC001_AccountRegistration:20 - ***  Starting TC001_AccountRegistration **** 
+2025-12-23 19:30:18 INFO  TC001_AccountRegistration:25 - clicked on Accountlink
+2025-12-23 19:30:19 INFO  TC001_AccountRegistration:27 - clicked on Registerationlink
+2025-12-23 19:30:19 INFO  TC001_AccountRegistration:32 - Giving the customer information....
+2025-12-23 19:30:27 INFO  TC001_AccountRegistration:44 - validating successful message
+2025-12-23 19:30:27 INFO  TC001_AccountRegistration:54 - ***  finished TC001_AccountRegistration ****
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DINESH\AppData\Local\Temp\testng-eclipse--626873066\testng-customsuite.xml
+
+2025-12-23 22:49:54 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-12-23 22:49:54 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@5316e95f: 23 ms
+2025-12-23 22:49:54 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@366ef90e: 57 ms
+2025-12-23 22:49:54 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@56f6d40b: 12 ms
+2025-12-23 22:49:54 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@665e9289: 9 ms
+2025-12-23 22:49:54 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1c55f277: 6 ms
+2025-12-23 22:49:54 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1de5f0ef: 7 ms
+2025-12-23 22:49:54 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@376a312c: 2 ms
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DINESH\AppData\Local\Temp\testng-eclipse--852843264\testng-customsuite.xml
+
+2025-12-23 22:50:37 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2025-12-23 22:50:37 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@5316e95f: 18 ms
+2025-12-23 22:50:37 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@366ef90e: 47 ms
+2025-12-23 22:50:37 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@56f6d40b: 9 ms
+2025-12-23 22:50:37 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@665e9289: 11 ms
+2025-12-23 22:50:37 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1c55f277: 5 ms
+2025-12-23 22:50:37 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1de5f0ef: 6 ms
+2025-12-23 22:50:37 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@376a312c: 0 ms
+2025-12-23 22:51:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DINESH\eclipse-workspace\openCartv1\testng.xml
+
+2025-12-23 22:51:16 INFO  TC002_LoginTest:19 - *** Starting TC002_loginTest *** 
+2025-12-23 22:52:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DINESH\eclipse-workspace\openCartv1\testng.xml
+
+2025-12-23 22:52:21 INFO  TC002_LoginTest:19 - *** Starting TC002_loginTest *** 
